@@ -52,8 +52,8 @@ data = {
     'hobbies': ['reading', 'traveling', {'name': 'coding', 'level': 'advanced'}]
 }
 
-#
-data_obj = ToObj(data) # Dictionary to object
+# Dictionary to object
+data_obj = ToObj(data)
 ```
 
 ```
